@@ -1,0 +1,8 @@
+flwr>=1.8.0
+torch>=2.1.0
+torchvision
+numpy
+pandas
+scikit-learn
+pyyaml
+tqdm
