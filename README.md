@@ -17,3 +17,5 @@ for **Encrypted Traffic Classification (ETC)** under **Non-IID multi-domain SDN 
 - Feather-based encrypted traffic dataset
 
 ## Project Structure
+
+## Report Link: https://docs.google.com/document/d/1rnZUzw7X4Hu-qUMuEkLAN795YOkvWgLBa8BOivynEL0/edit?usp=sharing
